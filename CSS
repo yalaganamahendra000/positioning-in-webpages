@@ -1,0 +1,44 @@
+
+.ww{
+    
+    
+    height: 100px;
+    width: 150px;
+    display: inline-block;
+    margin: 5px;
+    
+    border: 2px solid red;
+}
+body{
+    height: 250vh;
+    
+    
+}
+.box1{
+    
+    position: fixed;
+    margin-bottom: 25px;
+    margin-top:650px ;
+
+}
+.box2{
+    
+    position: relative;
+    margin-left: 300px;
+    margin-right: 100px;
+    
+}
+.box3{
+    position: absolute;
+    margin: 100px;
+    
+}
+.box4{
+    position: sticky;
+    top: 25px;
+    bottom: 150px;
+    left: 1000px;
+    
+    
+    
+}
